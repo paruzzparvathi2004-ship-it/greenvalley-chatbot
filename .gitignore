@@ -1,0 +1,19 @@
+# Virtual environment
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Environment variables (contains secret API key)
+.env
+
+# ChromaDB stored data
+chroma_db/
+
+# Python egg info
+*.egg-info/
+
+# OS files
+.DS_Store

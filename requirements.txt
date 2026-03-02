@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+sqlalchemy
+psycopg2-binary
+python-dotenv
+groq
+chromadb
+sentence-transformers
+PyMuPDF
+pandas
+openpyxl
+python-multipart
+pydantic
+reportlab
